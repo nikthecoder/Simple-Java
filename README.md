@@ -1,4 +1,4 @@
-# Assignments
+# Simple Java Assignments
 
 These are simple assignments coded in Java.
 
