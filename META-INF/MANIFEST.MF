@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Inl_mningsuppgift1
+Bundle-SymbolicName: Inl_mningsuppgift1
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Inl.mningsuppgift1
+Bundle-RequiredExecutionEnvironment: JavaSE-15
